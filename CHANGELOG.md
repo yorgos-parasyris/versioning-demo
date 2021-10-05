@@ -1,3 +1,10 @@
+## [2.0.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v1.1.1...v2.0.0) (2021-10-05)
+
+
+### Breaking
+
+* upgrade app, angularjs -> angular 12 ([78bd8f5](https://github.com/yorgos-parasyris/versioning-demo/commit/78bd8f5973c109f90f018f04933bf2713e99f90e))
+
 ### [1.1.1](https://github.com/yorgos-parasyris/versioning-demo/compare/v1.1.0...v1.1.1) (2021-10-05)
 
 
