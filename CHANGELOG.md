@@ -1,3 +1,12 @@
+### [1.1.1](https://github.com/yorgos-parasyris/versioning-demo/compare/v1.1.0...v1.1.1) (2021-10-05)
+
+
+### Fixes
+
+* **portal:** briliiant fix [#1](https://github.com/yorgos-parasyris/versioning-demo/issues/1) ([de3359e](https://github.com/yorgos-parasyris/versioning-demo/commit/de3359efeaca2ddc55e13019082e22fbf56f088c))
+* **portal:** brilliant fix [#3](https://github.com/yorgos-parasyris/versioning-demo/issues/3) (second portal fix) ([09b3014](https://github.com/yorgos-parasyris/versioning-demo/commit/09b301439817be5a9dd8784668dc1bd0f7f414fb))
+* **services:** brilliant fix [#2](https://github.com/yorgos-parasyris/versioning-demo/issues/2) ([066b2c4](https://github.com/yorgos-parasyris/versioning-demo/commit/066b2c46f69202e22a844377f4a990b5ec79a29d))
+
 ## [1.1.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v1.0.0...v1.1.0) (2021-10-05)
 
 
