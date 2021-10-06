@@ -1,3 +1,10 @@
+## [3.0.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v2.0.0...v3.0.0) (2021-10-06)
+
+
+### Breaking
+
+* this should be a breaking change ([8a00212](https://github.com/yorgos-parasyris/versioning-demo/commit/8a00212fc8549b9e55b5b24331b98baf8d634494))
+
 ## [2.0.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v1.1.1...v2.0.0) (2021-10-05)
 
 
