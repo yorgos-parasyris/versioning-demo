@@ -23,3 +23,5 @@
 // testing squash merge 2
 
 // testing squash merge 3
+
+// commit to demonstrate chore no cli
