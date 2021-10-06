@@ -17,3 +17,5 @@
 // not triggering release #3
 
 // merge commit with breaking change
+
+// testing squash merge 1
