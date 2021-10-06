@@ -15,3 +15,5 @@
 // not triggering release #2
 
 // not triggering release #3
+
+// merge commit with breaking change
