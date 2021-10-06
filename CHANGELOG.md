@@ -1,3 +1,10 @@
+## [3.1.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v3.0.0...v3.1.0) (2021-10-06)
+
+
+### New
+
+* **portal:** testing squash merge ([#12](https://github.com/yorgos-parasyris/versioning-demo/issues/12)) ([bfecf42](https://github.com/yorgos-parasyris/versioning-demo/commit/bfecf425702216286cd81800bae29be8e04da07b))
+
 ## [3.0.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v2.0.0...v3.0.0) (2021-10-06)
 
 
