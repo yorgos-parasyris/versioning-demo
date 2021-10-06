@@ -19,3 +19,5 @@
 // merge commit with breaking change
 
 // testing squash merge 1
+
+// testing squash merge 2
