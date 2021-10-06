@@ -1,3 +1,10 @@
+### [3.1.1](https://github.com/yorgos-parasyris/versioning-demo/compare/v3.1.0...v3.1.1) (2021-10-06)
+
+
+### Fixes
+
+* updated conventional commit chore message ([f781dd5](https://github.com/yorgos-parasyris/versioning-demo/commit/f781dd5a34157d84a42d5e7f0ba915499eaf5378))
+
 ## [3.1.0](https://github.com/yorgos-parasyris/versioning-demo/compare/v3.0.0...v3.1.0) (2021-10-06)
 
 
