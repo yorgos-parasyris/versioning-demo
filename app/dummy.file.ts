@@ -21,3 +21,5 @@
 // testing squash merge 1
 
 // testing squash merge 2
+
+// testing squash merge 3
